@@ -1,4 +1,4 @@
-function runGame(); {
+function runGame() {
 
 }
 
@@ -31,5 +31,5 @@ function displayMultiplyQuestion() {
 }
 
 function displayDivisionQuestion() {
-    
+
 }
