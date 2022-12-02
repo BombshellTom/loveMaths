@@ -28,7 +28,7 @@ function runGame(gameType) {
     displayAdditionQuestion(num1, num2)   
     } else {
         alert(`Unknown game type: ${gameType}`);
-        throw `Unknown game type: ${'gameType}. Aborting`);
+        throw `Unknown game type: ${'gameType}. Aborting`;
     }
 }
 
